@@ -1,1 +1,3 @@
 welcome to Bangalore
+
+I would like to learn devops and aws
